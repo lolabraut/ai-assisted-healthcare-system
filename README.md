@@ -10,7 +10,17 @@ Several technologies were evaluated, including Generative AI, cloud-native compu
 
 The resulting conceptual system combines AI-assisted clinical documentation, information retrieval, workflow automation, EHR integration, and human-in-the-loop verification.
 
+### Technology Evaluation
+
+The technologies were assessed against the requirements of the proposed healthcare use case, with Generative AI identified as the strongest overall fit.
+
+![Technology Evaluation and Selection Matrix](technology-selection-matrix.png)
+
 ## Proposed System
+
+### System Architecture
+
+![Conceptual Architecture of the AI-Assisted Healthcare System](healthcare-ai-architecture.png)
 
 The system is designed around a clinician-centred workflow in which AI supports, rather than replaces, clinical decision-making.
 
